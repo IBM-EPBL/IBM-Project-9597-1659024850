@@ -1,0 +1,14 @@
+input,textarea,select,button{
+    background-color:lightgreen;
+}
+tr{
+    background-color: #2fbaeb;
+}
+table{
+    margin-top:50px;
+}
+button{
+height: 40px;
+width: 240px;
+font-family: Arial;
+font-size: 16px; 
